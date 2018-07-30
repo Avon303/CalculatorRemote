@@ -1,0 +1,5 @@
+H:\ASP.NET\C#\Calculator\Methods\bin\Debug\Methods.pdb
+H:\ASP.NET\C#\Calculator\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+H:\ASP.NET\C#\Calculator\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+H:\ASP.NET\C#\Calculator\Methods\obj\Debug\Methods.dll
+H:\ASP.NET\C#\Calculator\Methods\obj\Debug\Methods.pdb
